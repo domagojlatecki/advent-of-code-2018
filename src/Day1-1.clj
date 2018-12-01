@@ -1,3 +1,3 @@
 (def inputs *command-line-args*)
-(def parsedInputs (map read-string inputs))
-(println (reduce + parsedInputs))
+(def parsed-inputs (map read-string inputs))
+(println (reduce + parsed-inputs))
