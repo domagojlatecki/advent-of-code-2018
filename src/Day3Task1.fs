@@ -19,7 +19,7 @@ let parseLine line =
     match line with
         | ParseRegex "#(\d+) @ (\d+),(\d+): (\d+)x(\d+)" [Integer id; Integer x; Integer y; Integer width; Integer height]
             -> (id, x, y, width, height)
-        | _ -> failwith ("unparsable input: " + line)
+        | _ -> failwith("unparsable input: " + line)
 
 let unwrapValues tuple =
     let id, x, y, width, height = tuple
