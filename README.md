@@ -10,6 +10,7 @@ Day 2 - Task 2: `nim c -r src/Day2Task2.nim < data/Day2.txt; rm -f src/Day2Task2
 Day 3 - Task 1: `fsharpc src/Day3Task1.fs; mono Day3Task1.exe < data/Day3.txt; rm -f Day3Task1.exe FSharp.Core.dll`  
 Day 3 - Task 2: `fsharpc src/Day3Task2.fs; mono Day3Task2.exe < data/Day3.txt; rm -f Day3Task2.exe FSharp.Core.dll`  
 Day 4 - Task 1: `csc src/Day4Task1.cs; mono Day4Task1.exe < data/Day4.txt; rm -f Day4Task1.exe`  
+Day 4 - Task 2: `csc src/Day4Task2.cs; mono Day4Task2.exe < data/Day4.txt; rm -f Day4Task2.exe`  
 
 ### Versions
 clj 1.9.0  
