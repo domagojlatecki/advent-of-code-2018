@@ -11,6 +11,7 @@ Day 3 - Task 1: `fsharpc src/Day3Task1.fs; mono Day3Task1.exe < data/Day3.txt; r
 Day 3 - Task 2: `fsharpc src/Day3Task2.fs; mono Day3Task2.exe < data/Day3.txt; rm -f Day3Task2.exe FSharp.Core.dll`  
 Day 4 - Task 1: `csc src/Day4Task1.cs; mono Day4Task1.exe < data/Day4.txt; rm -f Day4Task1.exe`  
 Day 4 - Task 2: `csc src/Day4Task2.cs; mono Day4Task2.exe < data/Day4.txt; rm -f Day4Task2.exe`  
+Day 5 - Task 1: `swiftc src/Day5Task1.swift; ./Day5Task1 < data/Day5.txt; rm -f Day5Task1`  
 
 ### Versions
 clj 1.9.0  
@@ -18,3 +19,4 @@ nim 0.19.0
 fsharpc 4.1  
 mono 5.14.0.177  
 csc 2.7.0.62620  
+swiftc 4.2.1  
