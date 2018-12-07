@@ -15,6 +15,7 @@ Day 5 - Task 1: `swiftc src/Day5Task1.swift; ./Day5Task1 < data/Day5.txt; rm -f 
 Day 5 - Task 2: `swiftc src/Day5Task2.swift; ./Day5Task2 < data/Day5.txt; rm -f Day5Task2`  
 Day 6 - Task 1: `cat data/Day6.txt | xargs -d '\n' node src/Day6Task1.js`  
 Day 6 - Task 2: `cat data/Day6.txt | xargs -d '\n' node src/Day6Task2.js`  
+Day 7 - Task 1: `python3 src/Day7Task1.py data/Day7.txt`  
 
 ### Versions
 clj 1.9.0  
@@ -24,3 +25,4 @@ mono 5.14.0.177
 csc 2.7.0.62620  
 swiftc 4.2.1  
 node 10.12.0  
+python3 3.7.0  
