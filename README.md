@@ -17,6 +17,7 @@ Day 6 - Task 1: `cat data/Day6.txt | xargs -d '\n' node src/Day6Task1.js`
 Day 6 - Task 2: `cat data/Day6.txt | xargs -d '\n' node src/Day6Task2.js`  
 Day 7 - Task 1: `python3 src/Day7Task1.py data/Day7.txt`  
 Day 7 - Task 2: `python3 src/Day7Task2.py data/Day7.txt`  
+Day 8 - Task 1: `gcc src/Day8Task1.c; cat data/Day8.txt | xargs ./a.out; rm -f a.out`  
 
 ### Versions
 clj 1.9.0  
@@ -27,3 +28,4 @@ csc 2.7.0.62620
 swiftc 4.2.1  
 node 10.12.0  
 python3 3.7.0  
+gcc 4.2.1  
