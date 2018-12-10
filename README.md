@@ -21,6 +21,7 @@ Day 8 - Task 1: `gcc src/Day8Task1.c; cat data/Day8.txt | xargs ./a.out; rm -f a
 Day 8 - Task 2: `gcc src/Day8Task2.c; cat data/Day8.txt | xargs ./a.out; rm -f a.out`  
 Day 9 - Task 1: `javac src/Day9Task1.java; cat data/Day9.txt | xargs -0 java -cp src Day9Task1; rm -f src/Day9Task1.class`  
 Day 9 - Task 2: `javac src/Day9Task2.java; cat data/Day9.txt | xargs -0 java -cp src Day9Task2; rm -f src/Day9Task2*.class`  
+Day 10 - Task 1: `bash src/Day10Task1.sh data/Day10.txt`  
 
 ### Versions
 clj 1.9.0  
@@ -33,3 +34,4 @@ node 10.12.0
 python3 3.7.0  
 javac 1.8.0_172  
 java 1.8.0_172  
+bash 3.2.57(1)-release  
