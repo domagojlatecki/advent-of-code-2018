@@ -23,6 +23,7 @@ Day 9 - Task 1: `javac src/Day9Task1.java; cat data/Day9.txt | xargs -0 java -cp
 Day 9 - Task 2: `javac src/Day9Task2.java; cat data/Day9.txt | xargs -0 java -cp src Day9Task2; rm -f src/Day9Task2*.class`  
 Day 10 - Task 1: `bash src/Day10Task1.sh data/Day10.txt`  
 Day 10 - Task 2: `bash src/Day10Task2.sh data/Day10.txt`  
+Day 10 - Task 1: `erlc src/Day11Task1.erl; num=$(cat data/Day11.txt); erl -noshell -s Day11Task1 main $num -s init stop; rm -f Day11Task1.beam`  
 
 ### Versions
 clj 1.9.0  
@@ -36,3 +37,5 @@ python3 3.7.0
 javac 1.8.0_172  
 java 1.8.0_172  
 bash 3.2.57(1)-release  
+erl 10.2  
+erlc 10.2  
