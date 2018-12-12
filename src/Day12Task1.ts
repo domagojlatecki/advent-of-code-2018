@@ -22,7 +22,7 @@ for (let transition of lines.slice(2)) {
     transitions[split[0]] = split[1];
 }
 
-for (var i = 0; i < 20; i++) {
+for (var i = 0; i < numSteps; i++) {
     var nextState = "..";
 
     for (var j = 2; j < currentState.length - 2; j++) {
