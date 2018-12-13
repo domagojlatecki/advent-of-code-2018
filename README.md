@@ -28,6 +28,7 @@ Day 11 - Task 2: `erlc src/Day11Task2.erl; num=$(cat data/Day11.txt); erl -noshe
 Day 12 - Task 1: `cat data/Day12.txt | xargs -d '\n' ts-node src/Day12Task1.ts`  
 Day 12 - Task 2: `cat data/Day12.txt | xargs -d '\n' ts-node src/Day12Task2.ts`  
 Day 13 - Task 1: `go run src/Day13Task1.go data/Day13.txt`  
+Day 13 - Task 2: `go run src/Day13Task2.go data/Day13.txt`  
 
 ### Versions
 clj 1.9.0  
