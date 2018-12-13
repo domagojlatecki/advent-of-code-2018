@@ -27,6 +27,7 @@ Day 11 - Task 1: `erlc src/Day11Task1.erl; num=$(cat data/Day11.txt); erl -noshe
 Day 11 - Task 2: `erlc src/Day11Task2.erl; num=$(cat data/Day11.txt); erl -noshell -s Day11Task2 main $num -s init stop; rm -f Day11Task2.beam`  
 Day 12 - Task 1: `cat data/Day12.txt | xargs -d '\n' ts-node src/Day12Task1.ts`  
 Day 12 - Task 2: `cat data/Day12.txt | xargs -d '\n' ts-node src/Day12Task2.ts`  
+Day 13 - Task 1: `go run src/Day13Task1.go data/Day13.txt`  
 
 ### Versions
 clj 1.9.0  
@@ -43,3 +44,4 @@ bash 3.2.57(1)-release
 erl 10.2  
 erlc 10.2  
 ts-node: 7.0.1  
+go 1.11.2  
