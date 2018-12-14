@@ -29,6 +29,7 @@ Day 12 - Task 1: `cat data/Day12.txt | xargs -d '\n' ts-node src/Day12Task1.ts`
 Day 12 - Task 2: `cat data/Day12.txt | xargs -d '\n' ts-node src/Day12Task2.ts`  
 Day 13 - Task 1: `go run src/Day13Task1.go data/Day13.txt`  
 Day 13 - Task 2: `go run src/Day13Task2.go data/Day13.txt`  
+Day 14 - Task 1: `g++ src/Day14Task1.cpp; cat data/Day14.txt | xargs ./a.out; rm -f a.out`  
 
 ### Versions
 clj 1.9.0  
@@ -39,6 +40,7 @@ csc 2.7.0.62620
 swiftc 4.2.1  
 node 10.12.0  
 python3 3.7.0  
+gcc 4.2.1  
 javac 1.8.0_172  
 java 1.8.0_172  
 bash 3.2.57(1)-release  
@@ -46,3 +48,4 @@ erl 10.2
 erlc 10.2  
 ts-node: 7.0.1  
 go 1.11.2  
+g++ 4.2.1  
