@@ -30,6 +30,7 @@ Day 12 - Task 2: `cat data/Day12.txt | xargs -d '\n' ts-node src/Day12Task2.ts`
 Day 13 - Task 1: `go run src/Day13Task1.go data/Day13.txt`  
 Day 13 - Task 2: `go run src/Day13Task2.go data/Day13.txt`  
 Day 14 - Task 1: `g++ src/Day14Task1.cpp; cat data/Day14.txt | xargs ./a.out; rm -f a.out`  
+Day 14 - Task 2: `g++ src/Day14Task2.cpp; cat data/Day14.txt | xargs ./a.out; rm -f a.out`  
 
 ### Versions
 clj 1.9.0  
