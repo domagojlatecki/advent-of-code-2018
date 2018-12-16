@@ -31,6 +31,9 @@ Day 13 - Task 1: `go run src/Day13Task1.go data/Day13.txt`
 Day 13 - Task 2: `go run src/Day13Task2.go data/Day13.txt`  
 Day 14 - Task 1: `g++ src/Day14Task1.cpp; cat data/Day14.txt | xargs ./a.out; rm -f a.out`  
 Day 14 - Task 2: `g++ src/Day14Task2.cpp; cat data/Day14.txt | xargs ./a.out; rm -f a.out`  
+Day 15 - Task 1: `TODO`  
+Day 15 - Task 2: `TODO`  
+Day 16 - Task 1: `dmd src/Day16Task1.d; ./Day16Task1 data/Day16.txt; rm -f Day16Task1 Day16Task1.o`  
 
 ### Versions
 clj 1.9.0  
@@ -50,3 +53,5 @@ erlc 10.2
 ts-node: 7.0.1  
 go 1.11.2  
 g++ 4.2.1  
+TODO  
+dmd 2.083.1  
