@@ -34,6 +34,7 @@ Day 14 - Task 2: `g++ src/Day14Task2.cpp; cat data/Day14.txt | xargs ./a.out; rm
 Day 15 - Task 1: `TODO`  
 Day 15 - Task 2: `TODO`  
 Day 16 - Task 1: `dmd src/Day16Task1.d; ./Day16Task1 data/Day16.txt; rm -f Day16Task1 Day16Task1.o`  
+Day 16 - Task 2: `dmd src/Day16Task2.d; ./Day16Task2 data/Day16.txt; rm -f Day16Task2 Day16Task2.o`  
 
 ### Versions
 clj 1.9.0  
